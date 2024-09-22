@@ -6,3 +6,6 @@ beautifulsoup4
 lxml 
 html5lib
 python-dotenv
+https://googlechromelabs.github.io/chrome-for-testing/#stable
+#https://www.youtube.com/watch?v=Oo8-nEuDBkk
+#https://github.com/techwithtim/AI-Web-Scraper/blob/main/requirements.txt
